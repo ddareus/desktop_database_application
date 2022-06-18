@@ -1,2 +1,2 @@
-# desktop_database_application
+# Desktop Database Application
 Desktop Database Application with Python
